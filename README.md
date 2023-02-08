@@ -7,6 +7,6 @@ Check the number of bikes available at a choosen station. This choose can be on 
 
 ## Screenshots 
 
-![screen](./images/home.jpg)
-![screen](./images/list.jpg)
-![screen](./images/single.jpg)
+![screen](./img/home.jpg)
+![screen](./img/list.jpg)
+![screen](./img/single.jpg)
